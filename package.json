@@ -1,0 +1,21 @@
+{
+    "name": "multi-hashing",
+    "version": "0.0.10",
+    "main": "multihashing",
+    "author": {
+        "name": "Multiple",
+        "email": "Check The Git Repo"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/snipa22/node-multi-hashing-aesni.git"
+    },
+    "dependencies" : {
+        "bindings" : "*",
+        "nan": "^2.14.0"
+    },
+    "keywords": [
+        "cryptonote",
+        "cryptonote-light"
+    ]
+}
